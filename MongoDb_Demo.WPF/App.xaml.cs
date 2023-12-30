@@ -10,4 +10,3 @@ namespace MongoDb_Demo.WPF;
 public partial class App : Application
 {
 }
-

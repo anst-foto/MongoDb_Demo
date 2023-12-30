@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_Demo.WPF", "MongoDb_Demo.WPF\MongoDb_Demo.WPF.csproj", "{FE9C3EFC-94E3-4B41-8673-C681804CB4BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_Demo.DbLib", "MongoDb_Demo.DbLib\MongoDb_Demo.DbLib.csproj", "{1DF9FA28-2D5F-47C0-ADD7-4618F2500023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_Demo.Model", "MongoDb_Demo.Model\MongoDb_Demo.Model.csproj", "{65A09F08-AD31-4756-A2DA-315415084B2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{FE9C3EFC-94E3-4B41-8673-C681804CB4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9C3EFC-94E3-4B41-8673-C681804CB4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9C3EFC-94E3-4B41-8673-C681804CB4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF9FA28-2D5F-47C0-ADD7-4618F2500023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF9FA28-2D5F-47C0-ADD7-4618F2500023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF9FA28-2D5F-47C0-ADD7-4618F2500023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF9FA28-2D5F-47C0-ADD7-4618F2500023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A09F08-AD31-4756-A2DA-315415084B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A09F08-AD31-4756-A2DA-315415084B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A09F08-AD31-4756-A2DA-315415084B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A09F08-AD31-4756-A2DA-315415084B2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
